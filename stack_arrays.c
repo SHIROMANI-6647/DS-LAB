@@ -56,5 +56,36 @@ int main()
   }
  }
 }
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+enter your choice1
+element to be inserted6
+1-push
+2-pop
+3-peek
+4-display
+5-exit
+enter your choice2
+deleted element is 61-push
+2-pop
+3-peek
+4-display
+5-exit
+enter your choice3
+stack under flow1-push
+2-pop
+3-peek
+4-display
+5-exit
+enter your choice4
+stack under flow1-push
+2-pop
+3-peek
+4-display
+5-exit
+enter your choice5
 
 
